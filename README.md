@@ -3,7 +3,19 @@
  ### [YouTube Demonstration](https://www.youtube.com/@ReaperSec-y7l)
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+Design and implement a comprehensive network infrastructure for Vic Modern Hotel, spanning three floors with multiple departments. 
+The goal is to create a secure, efficient, and scalable network that supports all hotel operations and demonstrates practical application of various networking technologies.
+
+The network should feature:
+- Three interconnected routers (one per floor)
+- VLAN segmentation for each department
+- Wi-Fi networks on each floor
+- DHCP for automatic IP assignment
+- OSPF routing protocol
+- Inter-VLAN communication
+- SSH configuration for remote access
+- Port security in the IT department
+
 
 
 ### Skills Learned
